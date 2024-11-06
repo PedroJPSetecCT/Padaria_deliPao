@@ -1,0 +1,67 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-image:url(../imgs/fundoR.jpg);
+    font-size: 145%;
+    background-size: 100%;
+}
+header{
+    text-align: center; 
+        text-shadow: 0.1em 0.1em 0.3em rgb(175, 57, 3);
+    color: antiquewhite;
+}
+li{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h2{
+    color: antiquewhite; 
+}
+
+a{
+    color: rgb(44, 43, 43);
+    text-decoration: none;
+}
+nav a:hover{
+    color: rgb(158, 149, 149);
+}
+.imgs{
+    width: 99px;
+    height: 99px;
+    border-radius: 7%;
+}
+.logotipo{
+    width: 430px; 
+    height: 300px; 
+    border-radius: 10%;
+}
+.bebidas{
+    background-image: url(../imgs/fundo2.jpg);
+    background-size: 100%;
+    background-color:brown;
+    border-radius: 10%;
+    border: solid 2px black;
+    padding: 3%;
+
+}
+.salgados{
+    background-image: url(../imgs/fundo2.jpg);
+    background-size: 100%;
+    background-color:brown;
+    border-radius: 10%;
+    border: solid 2px black;
+    padding: 3%;
+
+}
+.doces{
+    background-image: url(../imgs/fundo2.jpg);
+    background-size: 100%;
+    background-color:brown;
+    border-radius: 10%;
+    border: solid 2px black;
+    padding: 3%;
+
+}
+.comida{
+    display: flex;
+    justify-content: space-between;
+    
+}

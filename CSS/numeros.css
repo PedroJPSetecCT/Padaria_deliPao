@@ -1,0 +1,33 @@
+body{
+    font-family: Verdana, Tahoma, sans-serif;
+    background-image:url(../imgs/fundoR.jpg);
+    font-size: 110%;
+    background-size: 100%;
+    text-align: center;
+}
+th{
+    border: solid black 2px;
+    background-color: bisque;
+    font-size: 125%;
+    border-radius: 6px;
+}
+td{
+    border: solid black 1px;
+    padding: 55px;
+    background-color: rgb(253, 224, 185);
+    font-size: 125%;
+    border-radius: 6px;
+}
+a:hover{
+    color: rgb(112, 6, 6);
+}
+a{
+    color: rgb(44, 43, 43);
+    text-decoration: none;
+}
+img{
+    border-radius: 3%;
+}
+button{
+    font-size: 130%;
+}
